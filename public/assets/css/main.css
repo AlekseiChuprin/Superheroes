@@ -1,0 +1,64 @@
+body, html {
+    width: 100%;
+    min-width: 1000px;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: Tahoma;
+    background: #ffffff;
+    color: #ffffff;
+}
+.wrapper{
+    width: 1000px;
+    margin: 0 auto;
+}
+.header{
+    background: #d76d6b;
+    padding: 50px 0;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    text-transform: uppercase;
+}
+.left-sidebar{
+    background: #0010d5;
+    float: left;
+    width: 250px;
+    height: 300px;
+    text-align: center;
+    text-transform: uppercase;
+}
+.content{
+    background: #00288b;
+    float: left;
+    width: 1000px;
+    height: 300px;
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 50px;
+}
+.clear {
+    clear: both;
+}
+.footer{
+    background: #d76d6b;
+    padding: 100px 0;
+    padding: 50px 0;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.edit_foto img{
+    width: 350px;
+    margin: 0;
+    padding: 0;
+}
+
+.name {
+    margin-top: 15px;
+    color: black;
+    font-size: 35px;
+    font-style: italic;
+}
