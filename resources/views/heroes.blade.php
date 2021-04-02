@@ -155,24 +155,24 @@
                     @csrf
                     <div class="form-group">
                         <small>nickname</small>
-                        <input type="text" name="nickname" class="form-control">
+                        <input type="text" name="nickname" value="{{old('nickname')}}" class="form-control">
                     </div>
                     <div class="form-group">
                         <small>real_name</small>
-                        <input type="text" name="real_name" class="form-control">
+                        <input type="text" name="real_name" value="{{old('real_name')}}" class="form-control">
                     </div>
                     <div class="form-group">
                         <small>origin_description</small>
                         <label for=""></label>
-                        <textarea class="form-control" name="origin_description" id="origin_description" rows="3"></textarea>
+                        <textarea class="form-control" name="origin_description" id="origin_description" rows="3">{{old('origin_description')}}</textarea>
                     </div>
                     <div class="form-group">
                         <small>superpowers</small>
-                        <input type="text" name="superpowers" class="form-control">
+                        <input type="text" name="superpowers" value="{{old('superpowers')}}" class="form-control">
                     </div>
                     <div class="form-group">
                         <small>catch_phrase</small>
-                        <input type="text" name="catch_phrase" class="form-control">
+                        <input type="text" name="catch_phrase" value="{{old('catch_phrase')}}" class="form-control">
                     </div>
                     <div>
                         <p>Загрузить изображение</p>
