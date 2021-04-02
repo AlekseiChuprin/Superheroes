@@ -29,7 +29,7 @@ class IndexController extends Controller
      */
     public function index() : View
     {
-        $superheroes = $this->superhero->orderBy('id', 'desc')->paginate(3);
+        $superheroes = $this->superhero->orderBy('id', 'desc')->paginate(5);
 
         return view('heroes', compact('superheroes'));
     }

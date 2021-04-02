@@ -15,7 +15,7 @@
     </div>
     <div class="content">
         {{$hero->origin_description}}
-        <div class="edit_foto">
+        <div class="hero_foto">
             <img src="{{$hero->getImage()}}" alt="">
         </div>
         {{$hero->catch_phrase}}

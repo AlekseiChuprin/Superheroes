@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99ad92c4-b65f-4ecd-b845-ac5a357c2c76" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/resources/views/components/modal.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/IndexController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/IndexController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/uploads/images/2021-04-01/ZdPoTLGStYYaMnJYv71mLuptMaGyAsQ1gLVJnOd2.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/heroes.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/heroes.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/show-hero.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/show-hero.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,7 +157,8 @@
       <workItem from="1617125136809" duration="9350000" />
       <workItem from="1617171550121" duration="13045000" />
       <workItem from="1617254088230" duration="27255000" />
-      <workItem from="1617358916460" duration="1090000" />
+      <workItem from="1617358916460" duration="1653000" />
+      <workItem from="1617373215969" duration="436000" />
     </task>
     <servers />
   </component>
@@ -168,14 +174,14 @@
       <screen x="0" y="0" width="1600" height="870" />
     </state>
     <state x="521" y="212" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1600.870@0.0.1600.870" timestamp="1617303633745" />
-    <state x="580" y="189" key="FileChooserDialogImpl" timestamp="1617125133004">
+    <state x="580" y="189" key="FileChooserDialogImpl" timestamp="1617368085836">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state x="580" y="189" key="FileChooserDialogImpl/0.0.1600.870@0.0.1600.870" timestamp="1617125133004" />
-    <state x="634" y="358" key="NewPhpFileDialog" timestamp="1617304400866">
+    <state x="580" y="189" key="FileChooserDialogImpl/0.0.1600.870@0.0.1600.870" timestamp="1617368085836" />
+    <state x="634" y="358" key="NewPhpFileDialog" timestamp="1617368021038">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state x="634" y="358" key="NewPhpFileDialog/0.0.1600.870@0.0.1600.870" timestamp="1617304400866" />
+    <state x="634" y="358" key="NewPhpFileDialog/0.0.1600.870@0.0.1600.870" timestamp="1617368021038" />
     <state x="463" y="186" width="672" height="678" key="search.everywhere.popup" timestamp="1617218686485">
       <screen x="0" y="0" width="1600" height="870" />
     </state>

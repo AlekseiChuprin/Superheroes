@@ -50,8 +50,8 @@ body, html {
     text-transform: uppercase;
 }
 
-.edit_foto img{
-    width: 350px;
+.hero_foto img{
+    width: 100px;
     margin: 0;
     padding: 0;
 }
@@ -61,4 +61,28 @@ body, html {
     color: black;
     font-size: 35px;
     font-style: italic;
+}
+
+img {
+    width: 200%;
+    max-width: 200px;
+    height: auto;
+}
+
+.hero_foto img{
+    width: 200px;
+}
+
+.edit_foto img{
+    width: 100px;
+}
+.action{
+    float: left;
+    margin-right: 10px;
+}
+
+.allheroes_pagination{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
 }
